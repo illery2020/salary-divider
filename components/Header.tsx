@@ -59,7 +59,7 @@ export default function Header() {
                 onClick={() => setOpen(false)}
                 className="flex items-center justify-between px-4 py-3 text-sm text-slate-700 hover:bg-slate-50 transition-colors"
               >
-                <span>かほこへ渡す分の設定</span>
+                <span>相手に渡す分の設定</span>
                 <ChevronRight size={16} className="text-slate-400" />
               </Link>
             </div>

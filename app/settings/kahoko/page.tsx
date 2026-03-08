@@ -18,7 +18,7 @@ export default function KahokoPage() {
         >
           <ChevronLeft size={22} className="text-slate-600" />
         </Link>
-        <h1 className="text-lg font-bold text-slate-800">かほこへ渡す分の設定</h1>
+        <h1 className="text-lg font-bold text-slate-800">相手に渡す分の設定</h1>
       </div>
       <p className="text-xs text-slate-400">
         項目名と金額を編集して「保存する」を押してください。
